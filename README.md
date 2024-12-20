@@ -1,5 +1,5 @@
-## Hi there 👋
-
+![](https://c.tenor.com/zyh9YnJR5P8AAAAC/tenor.gif) <br/>
+# I love Systems and Low-level Programming
 <!--
 **awwyushh/awwyushh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
