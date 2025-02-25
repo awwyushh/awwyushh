@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awwyushh&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=awwyush)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=awwyushh&icon=0&color=0)](https://visitcount.itsvg.in)
